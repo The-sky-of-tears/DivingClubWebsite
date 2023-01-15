@@ -1,3 +1,3 @@
 # DivingClubWebsite
 
-These are my web-design course tasks
+This is my web-design course project 
